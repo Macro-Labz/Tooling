@@ -34,7 +34,7 @@ Development Plan
 Develop a workflow to quickly iterate and build MVP cardano dApps. Use v0 and Cursor composer along with custom markdown files (Database, FrontEnd, Wallet, BackEnd..) in combination with Composer Projects.
  
 Company Structure
-Partnership with Nolan - 50/50 ownership - In Saskatchewan/Canada
+Partnership with Nolan - 51/49 ownership - In Saskatchewan/Canada
 All income comes to a wallet/bank account we own
  
 Future option for Token
